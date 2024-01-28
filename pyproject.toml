@@ -6,7 +6,7 @@ authors = ["xwu106 <xwu106@ford.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9.18"
 streamlit = "^1.30.0"
 openai = "^1.10.0"
 
