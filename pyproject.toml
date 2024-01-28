@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ai-4-kids"
+version = "0.1.0"
+description = "LLM based application for kids educaiton."
+authors = ["xwu106 <xwu106@ford.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.30.0"
+openai = "^1.10.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
